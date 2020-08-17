@@ -1,0 +1,51 @@
+.grey {background: lightgrey;}
+.margin50 {margin-top: 50px;}
+.margin30 {margin-top: 30px;}
+.margin10 {margin-top: 10px;}
+.textblue {color: dodgerblue;}
+
+
+
+
+
+  .skyblue {
+    background: deepskyblue;
+  }
+
+
+
+
+  .box {
+    height: 400px;
+    padding: 20px;
+    color: #fff;
+    background: deepskyblue;
+  }
+
+  .purple {
+    background: rebeccapurple;
+  }
+  
+  .red {
+    background: indianred;
+  }
+
+  .box {
+    min-height: 50px;
+    padding: 5px;
+    margin: 5px;
+    font-weight: 800;
+    color: #fff;
+  }
+  
+  .skyblue {
+    background: deepskyblue;
+  }
+  
+  .purple {
+    background: rebeccapurple;
+  }
+  
+  .red {
+    background: indianred;
+  }
